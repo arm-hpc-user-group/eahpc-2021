@@ -19,7 +19,7 @@ Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=e
 
 As part of the [IEEE Cluster 2021](https://clustercomp.org/2021/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
-The IEEE Cluster conference will be hosted this year between the 14th and 17th of September. Due to COVID-19 this workshop will be hosted virtually.
+The IEEE Cluster conference will be hosted this year between the 7th and 10th of September. Due to COVID-19 this workshop will be hosted virtually on the 7th of September.
 
 ### Abstract
 This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
@@ -47,7 +47,7 @@ This workshop is the second iteration of EAHPC and is a proceedings-based worksh
 ## Submission
 
 
-Submissions will be taken through EasyChair at the following link: [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2020).
+Submissions will be taken through EasyChair at the following link: [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
 
 Accepted papers will be included in the IEEE Cluster 2021 conference proceedings.
 
@@ -64,6 +64,8 @@ Camera Ready: 14th August (AoE)
 
 ## Organizers
 
+* Dr. Sadaf Alam (CSCS)
+* Dr. Tony Curtis (Stonybrook)
 * Dr. Jeffrey Young (Georgia Tech)
 * Prof. Mitsuhisa Sato (RIKEN)
 
