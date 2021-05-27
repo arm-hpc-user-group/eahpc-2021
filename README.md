@@ -1,4 +1,4 @@
-## EAHPC-2020 - Embracing Arm for High Performance Computing Workshop
+## EAHPC-2021 - Embracing Arm for High Performance Computing Workshop
 
 # Registration
 
@@ -6,11 +6,13 @@ TBD
 
 ## Event agenda
 
-EAHPC-2020 will be running as a live, recorded event on ** September 2021**. The dial-in details will be provided via the IEEE Cluster conference to registered attendees.
+EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. The dial-in details will be provided via the IEEE Cluster conference to registered attendees.
 
 ### Agenda (Times in GMT+1). 
 
-## Update: Deadline Extension
+To be announced!
+
+## Paper Submissions 
 
 Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
 
