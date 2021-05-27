@@ -2,7 +2,7 @@
 
 # Registration
 
-[Registration is **free** and open to all.  Please click here to register](https://www.cvent.com/d/d7q0l9)
+TBD
 
 ## Event agenda
 
@@ -12,30 +12,24 @@ EAHPC-2020 will be running as a live, recorded event on ** September 2021**. The
 
 ## Update: Deadline Extension
 
-The submission deadline has been extended by 1 week. Submission is now due 20th July Anywhere on Earth (AoE).
-
-Submissions via EasyChair [EAHPC-2020](https://easychair.org/conferences/?conf=eahpc2020).
-
-Due to COVID-19 this workshop will be hosted virtually.
+Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
 
 
-As part of the [IEEE Cluster 2020](https://clustercomp.org/2020/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
+As part of the [IEEE Cluster 2021](https://clustercomp.org/2021/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
-The IEEE Cluster conference will be hosted this year between the 14th and 17th of September. The current plan is to go ahead with hosting it in Kobe, Japan. However, due to COVID-19, it is possible that the conference will be hosted virtually, including the workshops.
+The IEEE Cluster conference will be hosted this year between the 14th and 17th of September. Due to COVID-19 this workshop will be hosted virtually.
 
 ### Abstract
 This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
-
-Arm’s new Neoverse reference N1 core design has become the foundation for a number of emerging processors such as Amazon’s 64-core Graviton2 and Ampere’s 80-core Altra, with the EPI project incorporating the successor design into SiPearl’s Rhea chip. Further, architecture licenses are being exploited to design and manufacture bespoke solutions such as Marvell’s ThunderX line of processors and Fujitsu’s A64FX chip.
+Arm’s new Neoverse reference N1 core design has become the foundation for a number of emerging processors such as Amazon’s 64-core Graviton2 and Ampere’s 80-core Altra, with the EPI project incorporating the successor design into SiPearl’s Rhea chip. Furthermore, architecture licenses are being exploited to design and manufacture bespoke solutions such as Marvell’s ThunderX line of processors and Fujitsu’s A64FX chip.
 
 One of the most important additions to the Arm instruction set has been SVE – the Scalable Vector Extension – an architectural extension containing a comprehensive set of vector length agnostic vectorization instructions. Making its debut in the A64FX processor, these vector instructions present a paradigm shift for application developers.
 
-In this workshop we invite papers on the porting and, if available, optimization of high-performance workloads to this new generation of Arm-based processors. We welcome performance optimization studies either through access to real hardware or via simulation/emulation frameworks, for both SVE and otherwise.
+In this workshop we invite papers on the porting and, if available, optimization of high-performance workloads for this new generation of Arm-based processors. We welcome performance optimization studies either through access to real hardware or via simulation/emulation frameworks, for both SVE and otherwise.
 
-Content specifically focuses on HPC, Edge, and everything in between. Specifically, we will include talks related to applications and cross-over/emerging application areas such as machine learning, deep learning, bioinformatics, and analytics; all on Arm-compatible platforms.
+Content specifically focuses on HPC, edge, AI, and everything in between. Specifically, we will include talks related to applications and cross-over/emerging application areas such as machine learning, deep learning, bioinformatics, and analytics; all on Arm-compatible platforms.
 
-This workshop is closely related to the series of workshops organized at ISC, SC and the Arm Research Summit, the Arm HPC User’s Group (AHUG).
-
+This workshop is the second iteration of EAHPC and is a proceedings-based workshop that is closely related to the series of workshops organized at ISC, SC and the Arm Research Summit by groups like the [Arm HPC User Group (AHUG)](a-hug.org).
 
 ### Keywords
 
