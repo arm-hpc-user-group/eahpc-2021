@@ -58,9 +58,11 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ### Dates
 
-Submission Deadline: 13th July (AoE)
-Author Notification: 3rd August (AoE)
-Camera Ready: 14th August (AoE)
+**Submission Deadline**: 13th July (AoE)
+
+**Author Notification**: 3rd August (AoE)
+
+**Camera Ready**: 14th August (AoE)
 
 ## Organizers
 
