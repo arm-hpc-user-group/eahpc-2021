@@ -71,5 +71,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 * Dr. Jeffrey Young (Georgia Tech)
 * Prof. Mitsuhisa Sato (RIKEN)
 
+** Special thanks to Steve Poole (LANL) for help in workshop submission and initial organization! **
+
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
