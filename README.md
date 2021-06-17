@@ -58,11 +58,11 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ### Dates
 
-**Submission Deadline**: 13th July (AoE)
+**Submission Deadline**: 12th July (AoE)
 
-**Author Notification**: 3rd August (AoE)
+**Author Notification**: July 28th (AoE)
 
-**Camera Ready**: 14th August (AoE)
+**Camera Ready**: July 30th (AoE)
 
 ## Organizers
 
@@ -72,6 +72,9 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 * Prof. Mitsuhisa Sato (RIKEN)
 
 ** Special thanks to Steve Poole (LANL) for help in workshop submission and initial organization! **
+
+## Program Committee
+
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
