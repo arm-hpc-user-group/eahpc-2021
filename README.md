@@ -21,6 +21,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
 | 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |      | 
 | 9:35-9:50    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads |      |  
+| 9:50-10:10    |              | General discussion and feedback on what is needed for Arm HPC |      |  
 
 
 ## Paper Submissions 
