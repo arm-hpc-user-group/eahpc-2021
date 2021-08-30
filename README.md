@@ -2,20 +2,30 @@
 
 # Registration
 
-TBD
+Please register for [IEEE Cluster here](https://clustercomp.org/2021/registration/) to join the EA-HPC workshop event on September 7th.
 
 ## Event agenda
 
-EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. The dial-in details will be provided via the IEEE Cluster conference to registered attendees.
+EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. The login details will be provided via the IEEE Cluster conference to registered attendees.
 
-### Agenda (Times in GMT+1). 
+### Agenda (Times in US PDT). 
 
-To be announced!
+| Time (PDT)   | Presenter                   | Talk Title                                                   |   Notes   | 
+| ------------ | --------------------------- | ------------------------------------------------------------ | ---- | 
+| 7:00-7:10 AM | Jeffrey Young               | Workshop Introduction                                        |      | 
+| 7:10-7:35    | Jens Domke                  | A64FX – Your  Compiler You Must Decide!                      |      |  
+| 7:35-8:00    | Miwako Tsuji                | Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp  Suite |      | 
+| 8:00-8:10    | **BREAK**                   |                                                              |      |    
+| 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse  Matrix-Vector Multiplication on Fugaku’s A64FX processors |      |  
+| 8:35-9:00    | Md Abdullah  Shahneous Bari | A64FX performance:  experience on Ookami                     |      |  
+| 9:00-9:10    | **BREAK**                   |                                                              |      |    
+| 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |      | 
+| 9:35-9:50    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads |      |  
+
 
 ## Paper Submissions 
 
-Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
-
+~~Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
 
 As part of the [IEEE Cluster 2021](https://clustercomp.org/2021/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
@@ -60,11 +70,11 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ~~**Submission Deadline**: 13th July (AoE)~~
 
-**Final and Updated Submission Deadline**: 16th July (AoE)
+~~**Final and Updated Submission Deadline**: 16th July (AoE)
 
-**Author Notification**: July 28th (AoE)
+~~**Author Notification**: July 28th (AoE)
 
-**Camera Ready**: July 30th (AoE)
+~~**Camera Ready**: July 30th (AoE)
 
 ## Organizers
 
