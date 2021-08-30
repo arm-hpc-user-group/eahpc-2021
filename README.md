@@ -25,7 +25,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 
 ## Paper Submissions 
 
-~~Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).
+~~Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).~~
 
 As part of the [IEEE Cluster 2021](https://clustercomp.org/2021/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
@@ -70,11 +70,11 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ~~**Submission Deadline**: 13th July (AoE)~~
 
-~~**Final and Updated Submission Deadline**: 16th July (AoE)
+~~**Final and Updated Submission Deadline**: 16th July (AoE)~~
 
-~~**Author Notification**: July 28th (AoE)
+~~**Author Notification**: July 28th (AoE)~~
 
-~~**Camera Ready**: July 30th (AoE)
+~~**Camera Ready**: July 30th (AoE)~~
 
 ## Organizers
 
