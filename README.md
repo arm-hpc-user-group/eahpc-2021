@@ -87,6 +87,37 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 
 ## Program Committee
 
+- Jonathan Beard, Arm
+- Mark Bull, The University of Edinburgh
+  Marc Casas, BSC
+- Guillaume Colin De Verdiere, CEA/DAM
+- Miguel Cruz, INESC-ID
+- Jens Domke, RIKEN R-CCS
+- José Gracia, High-Performance Computing Center Stuttgart
+- Adrian Jackson, The University of Edinburgh
+- Sylvain Jubertie, Laboratoire d'Informatique Fondamentale d'Orleans
+- Yuetsu Kodama, RIKEN R-CCS
+- John Linford, Arm
+- Will Lovett, Arm
+- Fabrizio Magugliani, E4
+- Filippo Mantovani, Barcelona Supercomputing Center
+- Jean-François Mehaut, Laboratoire LIG
+- Miquel Moreto, UPC-BSC
+- Tetsuya Odajima, RIKEN R-CCS
+- Takahiro Ogura, RIKEN
+- Kevin Pedretti, Sandia National Labs
+- Marc Perache, CEA,DAM,DIF
+- Lucas Pettey, Arm
+- Dirk Pleiter, KTH
+- Andrei Poenaru, University of Bristol
+- Phil Ridley, Arm
+- Daniel Ruiz-Munoz, Arm
+- Roxana Rusitoru, Arm
+- Nathan Sircombe, Arm
+- Shinji Sumimoto, Fujitsu Laboratories
+- Srinath Vadlamani, Arm
+- Michele Weiland, The University of Edinburgh
+
 
 ### Contact
 Jeff Young (jyoung9@gatech.edu)
