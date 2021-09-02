@@ -17,7 +17,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 | 7:35-8:00    | Miwako Tsuji                | Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp  Suite |      | 
 | 8:00-8:10    | **BREAK**                   |                                                              |      |    
 | 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse  Matrix-Vector Multiplication on Fugaku’s A64FX processors |      |  
-| 8:35-9:00    | Md Abdullah  Shahneous Bari | A64FX performance:  experience on Ookami                     |      |  
+| 8:35-9:00    | Md Abdullah Shahneous Bari, Eva Siegmann | A64FX performance:  experience on Ookami                     |      |  
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
 | 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |      | 
 | 9:35-9:50    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads |      |  
