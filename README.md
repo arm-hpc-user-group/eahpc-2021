@@ -10,17 +10,17 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 
 ### Agenda (Times in US PDT). 
 
-| Time (PDT)   | Presenter                   | Talk Title                                                   |   Notes   | 
+| Time (PDT)   | Presenter                   | Talk Title                                                   |  Paper Coauthors   | 
 | ------------ | --------------------------- | ------------------------------------------------------------ | ---- | 
 | 7:00-7:10 AM | Jeffrey Young               | Workshop Introduction                                        |      | 
 | 7:10-7:35    | Jens Domke                  | A64FX – Your  Compiler You Must Decide!                      |      |  
-| 7:35-8:00    | Miwako Tsuji                | Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp  Suite |      | 
+| 7:35-8:00    | Miwako Tsuji                | Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp  Suite | Mitsuhisa Sato  | 
 | 8:00-8:10    | **BREAK**                   |                                                              |      |    
-| 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse  Matrix-Vector Multiplication on Fugaku’s A64FX processors |      |  
-| 8:35-9:00    | Md Abdullah Shahneous Bari, Eva Siegmann | A64FX performance:  experience on Ookami                     |      |  
+| 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors | Maxence Vandromme, Miwako Tsuji, Serge G. Petiton, Mitsuhisa Sato  |  
+| 8:35-9:00    | Md Abdullah Shahneous Bari, Eva Siegmann | A64FX performance:  experience on Ookami                     |   Barbara Chapman, Anthony Curtis, Robert J. Harrison, Nikolay A. Simakov, Matthew D. Jones   |  
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
-| 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |      | 
-| 9:35-9:50    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads |      |  
+| 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |   David Vicente, Marta Garcia-Gasulla, Filippo Mantovani   | 
+| 9:35-9:50    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads | Oksana Guba, Mark Taylor     |  
 | 9:50-10:10    |              | General discussion and feedback on what is needed for Arm HPC |      |  
 
 
