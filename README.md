@@ -2,7 +2,7 @@
 
 # Registration
 
-Please register for [IEEE Cluster here](https://clustercomp.org/2021/registration/) to join the EA-HPC workshop event on September 7th.
+Please register for [IEEE Cluster here](https://clustercomp.org/2021/registration/) to join the EA-HPC workshop event on September 7th. We will use a Zoom link through the IEEE Cluster RDMobile application as well as the IEEE Cluster Slack channel 
 
 ## Event agenda
 
