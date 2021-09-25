@@ -10,7 +10,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 
 ### Agenda (Times in US PDT). 
 
-| Time (PDT)   | Presenter                   | Talk Title                                                   |  Paper Coauthors   | 
+| Time (PDT)   | Presenter                   | Talk Title  (Click for Slides)                                                 |  Paper Coauthors   | 
 | ------------ | --------------------------- | ------------------------------------------------------------ | ---- | 
 | 7:00-7:10 AM | Jeffrey Young               | Workshop Introduction                                        |      | 
 |     | | **Session Chair: Tony Curtis** |    | 
@@ -23,7 +23,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
 |     | | **Session Chair: Sadaf Alam** |    | 
 | 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |   David Vicente, Marta Garcia-Gasulla, Filippo Mantovani   | 
-| 9:35-10:00    | Sarat Sreepathi             | Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads | Mark Taylor     |  
+| 9:35-10:00    | Sarat Sreepathi             | [Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads](https://sarats.com/files/E3SM-Fugaku-Cluster2021.pdf) | Mark Taylor     |  
 | 10:00-10:30    |              | General discussion and feedback on what is needed for Arm HPC |      |  
 
 
