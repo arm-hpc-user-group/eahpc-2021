@@ -14,16 +14,16 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 | ------------ | --------------------------- | ------------------------------------------------------------ | ---- | 
 | 7:00-7:10 AM | Jeffrey Young               | Workshop Introduction                                        |      | 
 |     | | **Session Chair: Tony Curtis** |    | 
-| 7:10-7:35    | Jens Domke                  | A64FX – Your  Compiler You Must Decide!                      |      |  
-| 7:35-8:00    | Miwako Tsuji                | Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp  Suite | Mitsuhisa Sato  | 
+| 7:10-7:35    | Jens Domke                  | [A64FX – Your  Compiler You Must Decide!](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/01-jdomke-eahpc21-A64FX-Your-Compiler-You-Must-Decide.pdf) [Alternate Link](http://domke.gitlab.io/paper/slides-domke-a64fxCvC-2021.pdf)                      |      |  
+| 7:35-8:00    | Miwako Tsuji                | [Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp Suite](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/02-mtsuji-eahpc21-Performance-Evaluation-A64FX-Fiber-Miniapp-Suite.pdf) | Mitsuhisa Sato  | 
 | 8:00-8:10    | **BREAK**                   |                                                              |      |    
 |     | | **Session Chair: Mitsuhisa Sato** |    | 
 | 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors | Maxence Vandromme, Miwako Tsuji, Serge G. Petiton, Mitsuhisa Sato  |  
 | 8:35-9:00    | Md Abdullah Shahneous Bari, Eva Siegmann | A64FX performance:  experience on Ookami                     |   Barbara Chapman, Anthony Curtis, Robert J. Harrison, Nikolay A. Simakov, Matthew D. Jones   |  
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
 |     | | **Session Chair: Sadaf Alam** |    | 
-| 9:10-9:35    | Fabio Banchelli             | Cluster of emerging  technology: evaluation of a production HPC system based on A64FX |   David Vicente, Marta Garcia-Gasulla, Filippo Mantovani   | 
-| 9:35-10:00    | Sarat Sreepathi             | [Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads](https://sarats.com/files/E3SM-Fugaku-Cluster2021.pdf) | Mark Taylor     |  
+| 9:10-9:35    | Fabio Banchelli             | [Cluster of emerging  technology: evaluation of a production HPC system based on A64FX](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/05-fbanchelli-eahpc21-Cluster-Of-Emerging-Technology.pdf) |   David Vicente, Marta Garcia-Gasulla, Filippo Mantovani   | 
+| 9:35-10:00    | Sarat Sreepathi             | [Early Evaluation of  Fugaku A64FX Architecture Using Climate Workloads](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/06-ssreepathi-eahpc21-E3SM-Fugaku-Cluster2021.pdf) [Alternate link](https://sarats.com/files/E3SM-Fugaku-Cluster2021.pdf) | Mark Taylor     |  
 | 10:00-10:30    |              | General discussion and feedback on what is needed for Arm HPC |      |  
 
 
