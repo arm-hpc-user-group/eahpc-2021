@@ -18,7 +18,7 @@ EAHPC-2021 will be running as a live, recorded event on **7 September 2021**. Th
 | 7:35-8:00    | Miwako Tsuji                | [Performance  Evaluation and Analysis of A64FX many-core Processor for the Fiber Miniapp Suite](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/02-mtsuji-eahpc21-Performance-Evaluation-A64FX-Fiber-Miniapp-Suite.pdf) | Mitsuhisa Sato  | 
 | 8:00-8:10    | **BREAK**                   |                                                              |      |    
 |     | | **Session Chair: Mitsuhisa Sato** |    | 
-| 8:10-8:35    | Jérôme  Gurhem              | Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors | Maxence Vandromme, Miwako Tsuji, Serge G. Petiton, Mitsuhisa Sato  |  
+| 8:10-8:35    | Jérôme  Gurhem              | [Sequences of Sparse Matrix-Vector Multiplication on Fugaku’s A64FX processors](https://github.com/arm-hpc-user-group/eahpc-2021/blob/main/slides/03-gurhem-eahpc21-Sequence-Sparse-Matrix-A64FX.pdf) | Maxence Vandromme, Miwako Tsuji, Serge G. Petiton, Mitsuhisa Sato  |  
 | 8:35-9:00    | Md Abdullah Shahneous Bari, Eva Siegmann | A64FX performance:  experience on Ookami                     |   Barbara Chapman, Anthony Curtis, Robert J. Harrison, Nikolay A. Simakov, Matthew D. Jones   |  
 | 9:00-9:10    | **BREAK**                   |                                                              |      |    
 |     | | **Session Chair: Sadaf Alam** |    | 
